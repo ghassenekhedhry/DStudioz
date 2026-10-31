@@ -1,0 +1,1089 @@
+PROJECT: DSTUDIOZ — FULL CONTENT, UX AND ADMINISTRATIVE REFINEMENT
+
+Act as an expert conversion copywriter, brand strategist,
+UX/UI designer, pricing architect, and senior React/TypeScript
+engineer.
+
+Modify the EXISTING DStudioz application.
+
+Do not create a separate mockup or another disconnected website.
+Do not rewrite the entire application blindly. Inspect the source,
+identify the existing data structures and components, then make
+targeted, comprehensive improvements.
+
+The application already contains:
+- Eight service departments.
+- Individual services and localized prices.
+- Ready-made packages.
+- Multi-service selection and discounts.
+- A regional pricing system.
+- Promotions.
+- WhatsApp contact.
+- Booking functionality.
+- An administrative dashboard.
+
+Preserve functional features wherever they are correct.
+
+Your tasks are to improve:
+1. All customer-facing copy.
+2. Package descriptions and presentation.
+3. About Us and How We Work.
+4. Service catalog size and navigation.
+5. Pricing affordability and bulk editing.
+6. Admin dashboard usability and control.
+7. Synchronization across services, packs, prices and promotions.
+
+Do not invent business facts, completed projects, client results,
+qualifications, certifications or guarantees.
+
+==================================================
+1. BRAND POSITIONING AND COPYWRITING
+==================================================
+
+DStudioz is an independent digital solutions studio operated by
+two brothers with additional collaborators who have different
+skills and responsibilities.
+
+We work remotely with clients worldwide.
+
+We focus especially on:
+- Digital management.
+- Branding and brand positioning.
+- Community and social media management.
+- Content creation and video editing.
+- Graphic design.
+- Website and application development.
+- SEO and local visibility.
+- Advertising.
+- Automation and integrations.
+- Technology and appropriately scoped security services.
+
+Our actual value is not simply that we offer many services.
+
+Our value is that we can coordinate the right expertise around
+a client's needs, deliver work consistently with their brand,
+and manage the process as one connected team.
+
+Use this central message:
+
+"DStudioz brings creative, digital and technical expertise
+together to help your business move forward."
+
+Supporting brand line:
+
+"From your brand identity to your digital systems, we help
+turn your needs into coordinated, practical solutions."
+
+Writing style:
+- Professional.
+- Human.
+- Confident.
+- Clear.
+- Warm without being overly casual.
+- Persuasive without exaggerated claims.
+- Short enough for visitors to scan.
+
+Remove unnecessary jargon, long paragraphs, corporate language,
+and defensive explanations.
+
+Do not repeatedly describe the studio as "not a large company"
+or discuss what we do not have.
+
+Do not use terms such as "hundreds of employees", "senior makers",
+"high-performing", "guaranteed growth", "dominate rankings",
+"zero guesswork", or "guaranteed results" unless the exact claim
+can be substantiated.
+
+Do not invent operational promises such as weekly staging links,
+rapid crisis response, 24/7 moderation, or fixed turnaround times
+unless the service configuration genuinely supports them.
+
+==================================================
+2. REWRITE THE ABOUT US SECTION
+==================================================
+
+Replace the current long About Us copy entirely.
+
+New section label:
+ABOUT DSTUDIOZ
+
+Headline:
+"Many skills. One connected team."
+
+Main copy:
+
+"DStudioz is an independent digital solutions studio bringing
+together creative, digital and technical expertise.
+
+We help businesses shape their brand, manage their online presence,
+create content, build digital experiences and improve the systems
+behind their work.
+
+Our team works remotely, with each contributor taking responsibility
+for their area of expertise. We coordinate the work around your
+needs so the different parts of your project fit together.
+
+Whether you need one specific service or support across several
+areas, we adapt the scope to your goals."
+
+Closing statement:
+
+"One clear direction. Coordinated work. Solutions built around you."
+
+Reduce the About section to a concise layout with:
+- One clear heading.
+- Two or three short paragraphs.
+- One restrained graphic or visual.
+- Three concise principles.
+
+Use these principles:
+- Coordinated expertise.
+- Clear scope and communication.
+- Flexible remote collaboration.
+
+Remove the existing excessive list of operational claims.
+
+Do not display invented employee counts, client figures, portfolio
+results, or claims about seniority.
+
+The About section should explain why working with DStudioz is useful,
+not defend the company's size or status.
+
+==================================================
+3. REWRITE HOW WE WORK
+==================================================
+
+Replace the four existing verbose cards.
+
+Section label:
+OUR APPROACH
+
+Headline:
+"Well coordinated, from start to finish."
+
+Supporting text:
+
+"We work remotely through a coordinated team, with the right people
+responsible for each part of your project."
+
+STEP 01 — Understand
+
+"We learn about your brand, audience, goals and requirements before
+defining the work."
+
+STEP 02 — Plan
+
+"We agree on the scope, deliverables, responsibilities, timing
+and applicable price."
+
+STEP 03 — Create Together
+
+"The relevant team members handle their specialties while keeping
+the work aligned with your brand and the agreed direction."
+
+STEP 04 — Deliver
+
+"We review the work, share the agreed deliverables, make the included
+revisions, and help with the agreed handover."
+
+Closing statement:
+
+"One service or several — we organize the work around what you need."
+
+CTA:
+"Let's Discuss Your Needs"
+
+Make this section short, visually clear, and easy to scan.
+
+IMPORTANT:
+Do not claim that every project includes weekly meetings,
+weekly staging links, deployment, DNS configuration, ongoing
+maintenance, or unlimited support.
+
+Those activities depend on the service selected and should appear
+in the relevant package terms only.
+
+Emphasize these real differentiators:
+- Remote collaboration.
+- Responsibilities organized by specialty.
+- Consistency across design and execution.
+- Brand-aligned delivery.
+- Agreed deadlines and scope.
+- The ability to purchase individual services.
+
+==================================================
+4. REWRITE THE SERVICE CATALOG
+==================================================
+
+The current Explore Services section takes too much vertical space.
+Reduce its visual footprint substantially.
+
+Do not remove the service catalog or its underlying data.
+
+Keep the eight departments, but redesign the initial view as a
+compact list or grid with concise descriptions.
+
+Each collapsed department should contain:
+- A small icon or distinctive visual.
+- Department name.
+- One short benefit statement.
+- A clear expand indicator.
+- An optional service count.
+
+Do not display long paragraphs, full deliverables, and all pricing
+inside collapsed departments.
+
+When a department expands, show compact service rows rather than
+large cards with excessive padding.
+
+Each service row should show:
+- Service title.
+- One-line outcome.
+- Price or "Request a quote".
+- A compact details control.
+
+When details are expanded, show:
+- Short description.
+- Main deliverables.
+- Available options.
+- Correct local price.
+- Book a Meeting.
+- Ask on WhatsApp.
+- Select Service, where supported.
+
+Only one service detail should be expanded at a time.
+
+Allow department expansion and collapse to remain quick and smooth.
+
+Reduce excessive whitespace, repeated dividers, unnecessary borders,
+and duplicate descriptions.
+
+On mobile, ensure that expanding a service does not make the user
+scroll through a massive block of unrelated information.
+
+Do not hide required information behind hover effects.
+
+Keep every service available, but make the initial catalog compact.
+
+==================================================
+5. ORGANIZE THE EIGHT DEPARTMENTS CORRECTLY
+==================================================
+
+Preserve the following department hierarchy.
+
+01. Brand Strategy & Design
+- Brand Positioning.
+- Brand Identity.
+- Logo Design.
+- Brand Guidelines.
+- Brand Messaging.
+- Naming Assistance.
+- Rebranding.
+- Visual Identity Assets.
+
+02. Digital Management & Advertising
+- Digital Strategy.
+- Digital Presence Planning.
+- Advertising Management.
+- Campaign Coordination.
+- Meta Ads Management.
+- Google Ads Management.
+- Campaign Reporting.
+- Digital Operations Coordination.
+
+03. Community Management
+- Social Media Management.
+- Content Calendar Planning.
+- Publishing and Scheduling.
+- Caption Writing.
+- Community Engagement.
+- Comment and Message Moderation.
+- Monthly Performance Reporting.
+
+04. Content & Creative Production
+- Graphic Design.
+- Social Media Graphics.
+- Promotional Visuals.
+- Video Editing.
+- Reels and Short-Form Video Editing.
+- AI-Assisted Visual Content.
+- Creative Campaign Assets.
+- Motion Graphics.
+
+05. Web & App Development
+- Landing Pages.
+- Business Websites.
+- E-Commerce Websites.
+- Web Applications.
+- Mobile Applications where supported.
+- Frontend and Backend Development.
+- API Integrations.
+- Website Improvements.
+- Website Maintenance.
+- Technical Troubleshooting.
+
+06. SEO & Local Visibility
+- SEO Foundations.
+- Technical SEO.
+- On-Page SEO.
+- Keyword Research.
+- Local SEO.
+- Google Business Profile Setup.
+- Google Maps Business Visibility.
+- Search Console and Analytics.
+- Search Visibility Reporting.
+
+07. AI, Automation & Integrations
+- Workflow Automation.
+- API Integrations.
+- Application Integrations.
+- Automated Reporting.
+- Lead Workflows.
+- Internal Tools.
+- Custom Automation.
+
+08. Technology & Security
+- Technical Support.
+- Linux Support.
+- Networking Assistance.
+- Website Security Hygiene.
+- Configuration Reviews.
+- Authorized OSINT Research.
+- Appropriately scoped Security Assessments.
+- Technical Scripts and Tools.
+
+Ensure each service belongs to the correct department.
+
+Do not put SEO services under branding.
+Do not duplicate the same service under multiple departments
+unless a deliberate cross-link is needed.
+
+Cross-links are allowed, but the underlying service record and
+price must remain the same.
+
+==================================================
+6. REWRITE EVERY SERVICE DESCRIPTION
+==================================================
+
+Audit all customer-facing service names, outcomes, descriptions,
+deliverables, optional add-ons and pricing notes in initialData.ts.
+
+Rewrite copy that is too technical, vague, exaggerated, or difficult
+for a small business owner to understand.
+
+Use an outcome-focused sentence first.
+
+Examples of the correct direction:
+
+BRAND POSITIONING:
+"Clarify what makes your brand different, who it serves and how
+you want customers to understand its value."
+
+BRAND IDENTITY:
+"Create a consistent visual identity with a logo, colors,
+typography and supporting brand elements."
+
+LOGO DESIGN:
+"Develop a recognizable logo that works across your main digital
+and print applications."
+
+COMMUNITY MANAGEMENT:
+"Keep your social channels active, organized and consistent
+with your brand."
+
+VIDEO EDITING:
+"Turn your supplied footage into clear, engaging videos suited
+to the platforms where you publish."
+
+BUSINESS WEBSITE:
+"Build a responsive website that presents your business, explains
+your services and makes it easy for customers to contact you."
+
+E-COMMERCE:
+"Create an online store with the agreed product catalog, shopping
+experience and configured payment options."
+
+SEO:
+"Improve your website's technical and content foundations so
+search engines can better understand its pages."
+
+GOOGLE BUSINESS PROFILE:
+"Set up or improve your business profile so customers can find
+your business information on Google Search and Maps."
+
+AUTOMATION:
+"Connect tools and automate repetitive steps in your workflow."
+
+TECHNICAL SUPPORT:
+"Troubleshoot selected website, configuration, networking or
+digital platform issues within the agreed scope."
+
+Avoid claims of guaranteed search placement, guaranteed conversions,
+guaranteed performance scores, or guaranteed business outcomes.
+
+For Google Maps services, remove phrases such as:
+"Dominate the regional search results."
+"Guarantee your place in the 3-Pack."
+"Ensure customers discover you."
+
+For advertising services, remove claims such as:
+"High-performing funnels" unless the copy clearly describes the
+work being offered rather than guaranteeing its results.
+
+For website development, avoid guaranteeing a specific PageSpeed
+score. Explain that performance is considered and tested instead.
+
+Preserve accurate deliverables but remove overly elaborate,
+unnecessary technical language from the visible summary.
+
+Keep detailed scope available in the expanded service details.
+
+Do not advertise capabilities the team cannot deliver.
+
+==================================================
+7. REWRITE ALL READY-MADE PACKAGE TEXT
+==================================================
+
+Audit every existing package in INITIAL_PACKAGES.
+
+The current package text often sounds excessively technical,
+overpromises outcomes, or describes complex deliverables without
+making the client benefit clear.
+
+Do not delete package IDs or break existing service references.
+
+Preserve the underlying deliverables when they are reasonable and
+supported, but simplify their names, benefit text and intended need.
+
+Each package needs:
+
+1. Clear package name.
+2. One-sentence customer benefit.
+3. "Best for" statement.
+4. Concise included deliverables.
+5. Explicit exclusions where important.
+6. Billing type.
+7. Correct market price.
+8. A clear contact or purchase action.
+
+Rewrite examples as follows.
+
+BRAND FOUNDATION
+
+Benefit:
+"Build a professional starting identity for your new brand."
+
+Best for:
+"New businesses and small brands that need a consistent look
+without a large branding project."
+
+BRAND LAUNCH
+
+Benefit:
+"Bring your brand identity, messaging and essential launch assets
+together in one coordinated package."
+
+Best for:
+"Businesses preparing to launch or refresh their public presence."
+
+BRAND EVOLUTION
+
+Benefit:
+"Refresh an established brand with a clearer identity and a
+consistent set of updated brand materials."
+
+Best for:
+"Businesses whose original branding no longer reflects their
+direction or audience."
+
+SOCIAL PRESENCE
+
+Benefit:
+"Keep your main social channels active with a planned, consistent
+flow of content."
+
+Best for:
+"Small brands that need organized social media support."
+
+SOCIAL GROWTH
+
+Benefit:
+"Combine regular publishing, creative content and community
+management in one monthly service."
+
+Best for:
+"Brands that want a more involved, coordinated social presence."
+
+SOCIAL PARTNER
+
+Benefit:
+"Get broader ongoing support for your social channels, content
+and community activities within an agreed monthly scope."
+
+Best for:
+"Brands that need more extensive social media coordination."
+
+DESIGN PACK
+
+Benefit:
+"Get a set of branded visuals ready for your chosen digital
+channels and campaigns."
+
+VIDEO PACK
+
+Benefit:
+"Turn your footage into edited videos ready for your selected
+social and digital platforms."
+
+CONTENT ENGINE
+
+Benefit:
+"Combine content planning, graphics and video editing into
+one organized monthly creative service."
+
+LANDING PAGE
+
+Rename "High-Conversion Landing Page" to:
+"Landing Page"
+
+Benefit:
+"A focused, responsive page for your brand, offer, campaign
+or product."
+
+Do not promise conversion rates.
+
+BUSINESS WEBSITE
+
+Benefit:
+"A responsive multi-page website that presents your business,
+explains your services and helps visitors take the next step."
+
+E-COMMERCE STOREFRONT
+
+Benefit:
+"Launch an online store with the agreed product catalog,
+shopping features and configured integrations."
+
+CUSTOM WEB APPLICATION
+
+Benefit:
+"Build a web application around a defined operational need
+or workflow."
+
+LOCAL VISIBILITY PACK
+
+Benefit:
+"Set up or improve your Google Business Profile and local search
+foundations to make your business information easier to find."
+
+SEO FOUNDATION PACK
+
+Benefit:
+"Improve key technical and on-page SEO foundations for your website."
+
+AUTOMATION BUILD PACK
+
+Benefit:
+"Connect selected tools and automate an agreed workflow to
+reduce repetitive manual work."
+
+TECHNICAL SUPPORT & SECURITY REVIEW
+
+Benefit:
+"Review selected technical configurations and identify practical
+improvements within a clearly defined scope."
+
+BUSINESS LAUNCH BUNDLE
+
+Benefit:
+"Bring your brand identity, website and essential online presence
+together in one coordinated launch package."
+
+DIGITAL GROWTH BUNDLE
+
+Benefit:
+"Combine social media management, creative production and selected
+visibility services in one coordinated package."
+
+BUSINESS SYSTEMS BUNDLE
+
+Benefit:
+"Connect a website or application with selected business tools
+and automation workflows."
+
+Apply the same writing standard to every other package.
+
+Never make a package sound more comprehensive than its actual
+deliverables.
+
+Avoid exaggerated terms such as:
+- "Dominate."
+- "Guaranteed growth."
+- "Flawless."
+- "High-performing" when implying a guaranteed result.
+- "Full-service" without defining the included scope.
+- "Unlimited" without a precise definition.
+- "Instant results."
+- "Industry-leading."
+
+Do not guarantee a fixed number of leads, conversions, ranking
+positions, or business outcomes.
+
+==================================================
+8. PACKAGE PAGE UX
+==================================================
+
+Make ready-made packs easier to compare.
+
+Use compact package cards.
+
+Each card shows:
+- Name.
+- Main benefit.
+- Price.
+- Billing interval.
+- Three to five key deliverables.
+- Main action.
+
+Add a "See full details" expansion for remaining scope,
+limits and exclusions.
+
+Use tabs, segmented controls or a well-designed comparison layout
+where appropriate.
+
+Do not repeat all package details on the homepage, every department,
+and the entire package catalog.
+
+Keep package details in the canonical package record and reuse them.
+
+When the administrator changes a package description or price,
+all public views must use the updated record.
+
+==================================================
+9. REDUCE ALL EXISTING PRICES BY 20%
+==================================================
+
+Apply a one-time reduction of 20% to every current numeric service
+price and every current numeric package price across all six
+markets:
+
+- Tunisia.
+- Algeria.
+- Libya.
+- Europe.
+- Canada.
+- International.
+
+This includes all numeric prices currently stored in:
+- INITIAL_DEPARTMENTS.
+- INITIAL_PACKAGES.
+- Any existing persisted pricing records used by the application.
+
+Reduce every currently configured numeric amount and both ends
+of each configured price range by 20%.
+
+Keep the same currency, market assignment, billing interval,
+pricing type, service ID and package ID.
+
+ROUNDING:
+
+Tunisia (TND):
+Round to practical amounts, generally the nearest 10 TND.
+
+Algeria (DZD):
+Round to practical amounts, generally the nearest 500 DZD
+or another sensible local increment for the price magnitude.
+
+Libya (LYD):
+Round to practical amounts, generally the nearest 10 LYD.
+
+Europe (EUR):
+Round to the nearest €5 or €10 as appropriate.
+
+Canada (CAD):
+Round to the nearest C$5 or C$10 as appropriate.
+
+International (USD):
+Round to the nearest $5 or $10 as appropriate.
+
+Do not change one market's price by converting another market's
+price through exchange rates.
+
+Do not change non-numeric "Custom quote" or "Not yet published"
+records into numeric prices.
+
+Apply the reduction exactly once.
+
+IMPORTANT PERSISTENCE RULE:
+
+Inspect src/lib/storage.ts and the existing persistence mechanism.
+
+If previously saved prices override INITIAL_DEPARTMENTS or
+INITIAL_PACKAGES, implement a one-time price migration with a
+version marker.
+
+Apply the 20% reduction exactly once to the current stored price
+records, including previously persisted prices, while preserving
+their current market and billing assignments.
+
+Record that the migration has been applied.
+
+Do not reduce prices again on every page load or every restart.
+
+Do not overwrite future administrator edits by repeating the
+migration.
+
+Do not reduce a second time if the migration marker is already
+present.
+
+The result must be consistent in the public website, selection
+drawer, package cards, pricing matrix, promotion calculations,
+and admin preview.
+
+==================================================
+10. ENSURE PACKAGES STILL OFFER VALUE
+==================================================
+
+After the 20% reduction, review the relationship between package
+prices and their included individual service prices.
+
+Where an individual service combination is explicitly sold as a
+ready-made package with a discount, the package should normally
+be priced below the sum of the equivalent standalone services.
+
+Do not force this rule onto custom-priced projects or packages
+whose scope is materially different from the standalone services.
+
+Do not add a fictional "saving" label.
+
+Only display a comparison or percentage saving if the underlying
+prices support it.
+
+For monthly packages, compare monthly costs against monthly
+standalone service costs.
+
+For one-time packages, compare one-time prices only.
+
+Do not combine recurring costs and one-time fees into a misleading
+total.
+
+==================================================
+11. ADMIN DASHBOARD: IMPROVE CONTROL AND NAVIGATION
+==================================================
+
+The admin dashboard currently contains too much work at the
+individual-item level.
+
+Redesign it to make pricing and content maintenance faster.
+
+Use a clear admin navigation:
+
+- Overview.
+- Services.
+- Packages.
+- Pricing.
+- Discounts.
+- Inquiries & Orders.
+- Booking.
+- Website Settings.
+
+Use a clean, compact interface with searchable lists, filters,
+inline editing, and batch actions.
+
+Do not redesign the public website as a dashboard.
+
+ADMIN OVERVIEW:
+
+Show a few useful summaries:
+- Draft prices awaiting review.
+- Active promotions.
+- Pending inquiries.
+- Recent orders.
+- Booking items requiring attention.
+
+Do not add fake sales statistics or fake analytics.
+
+SERVICES:
+
+Allow the administrator to:
+- Search services.
+- Filter by department.
+- Edit names and descriptions.
+- Edit deliverables.
+- Edit optional add-ons.
+- Update publication status.
+- Preview service details.
+
+PACKAGES:
+
+Allow the administrator to:
+- Search packages.
+- Filter by family or department.
+- Edit benefits and intended needs.
+- Edit deliverables.
+- Edit exclusions.
+- Edit billing type.
+- Manage included service IDs.
+- Manage package status.
+- Preview the resulting public package card.
+
+WEBSITE SETTINGS:
+
+Allow authorized users to change:
+- Brand tagline.
+- Homepage headline and supporting copy.
+- About section copy.
+- How We Work copy.
+- Primary CTA labels.
+- Contact information.
+- WhatsApp number.
+- Footer text.
+- Selected section visibility where appropriate.
+
+Do not require code editing for normal text updates.
+
+==================================================
+12. ADMIN PRICING MATRIX: BULK CONTROL
+==================================================
+
+Redesign the pricing area to support both individual edits and
+bulk operations.
+
+At the top, add:
+
+- Search.
+- Department filter.
+- Services / Packages filter.
+- Market selector.
+- Billing-type filter.
+- Published / Draft filter.
+
+Use a clean, searchable table rather than a huge complex grid
+that is difficult to navigate.
+
+Each row displays:
+- Service or package.
+- Department or package family.
+- Price in the selected market.
+- Billing type.
+- Published state.
+- Edit action.
+
+Selecting an item opens a compact side panel for editing its
+price records.
+
+The side panel should include all six markets, with editable
+amounts and clear currency labels.
+
+Add these bulk actions:
+
+A. ADJUST SELECTED PRICES
+
+Allow selecting individual services or packages and applying:
+- Decrease by percentage.
+- Increase by percentage.
+- Add a fixed amount.
+- Subtract a fixed amount.
+
+B. APPLY TO A DEPARTMENT
+
+Choose one department and apply an approved adjustment to all
+its services or packages.
+
+C. APPLY TO A MARKET
+
+Choose one market and apply an adjustment to all applicable
+prices in that market.
+
+D. APPLY TO ALL PRICES
+
+Allow an authorized administrator to select all eligible current
+service prices, all package prices, or both.
+
+For percentage adjustments, show a preview before applying.
+
+Example:
+
+Selected operation:
+Reduce by 10%.
+
+Preview:
+Current price: 500 TND.
+New price: 450 TND.
+
+Show how many records will change.
+
+Add a confirmation step.
+
+Do not automatically change prices when the administrator merely
+opens or selects the bulk operation.
+
+Use a clear Save Changes action.
+
+For safety, store an audit record of:
+- Price record ID.
+- Previous value.
+- New value.
+- Market.
+- Timestamp.
+- Operation type.
+- Administrator identity where available.
+
+The admin must be able to verify the impact before committing
+a bulk price operation.
+
+==================================================
+13. ADMIN DISCOUNT AND PROMOTION MANAGEMENT
+==================================================
+
+Retain the current promotion system but make it easier to manage.
+
+The administrator must be able to create and edit a promotion using
+a simple form.
+
+Fields:
+- Promotion name.
+- Public headline.
+- Short description.
+- Discount type.
+- Percentage or amount.
+- Eligible departments.
+- Eligible services.
+- Eligible packages.
+- Eligible markets.
+- Start date.
+- End date.
+- Active / Draft / Disabled state.
+- Optional coupon code.
+- Whether discounts can combine.
+
+Example promotion:
+
+Name:
+Studio Launch Offer.
+
+Public headline:
+"Save 17% on selected services."
+
+This is an example only. Do not activate it unless the administrator
+configures and approves it.
+
+The administrator should be able to preview the corresponding
+public promotion panel.
+
+The current public promotion display may remain a slim, elegant
+side tab on desktop and a compact bottom sheet on mobile.
+
+Do not show intrusive popups automatically.
+
+Only show active promotions applicable to the selected market.
+
+Never show expired offers.
+
+Prevent stacking conflicts and calculate promotional prices using
+the centralized pricing engine.
+
+==================================================
+14. ADMINISTRATIVE SIMPLICITY AND SAFETY
+==================================================
+
+The admin dashboard is an internal tool.
+
+Keep public client interactions outside the dashboard.
+
+Clients communicate through WhatsApp or Google Meet, not through
+an internal website messaging feature.
+
+Preserve the existing inquiry and order pipeline where functional.
+
+However, review authentication carefully.
+
+Do not rely on a publicly known default PIN or a hardcoded frontend
+secret for production security.
+
+Use genuine authentication and appropriate server-side
+authorization for any private data or administrative action.
+
+If the project has no real backend yet, make the limitation clear
+and configure the architecture safely before using real customer
+data.
+
+==================================================
+15. QA AND FINAL VERIFICATION
+==================================================
+
+Test every requested change.
+
+COPYWRITING:
+- About Us is concise and accurate.
+- How We Work emphasizes remote collaboration, team coordination,
+  consistent branding and agreed timing.
+- All service descriptions use understandable language.
+- All package benefits are concise and accurate.
+- No unsupported claims or guarantees remain.
+- No duplicated or inconsistent content appears.
+
+LAYOUT:
+- Initial Explore Services view is substantially smaller.
+- Department expansion is compact.
+- Service details are easy to close and reopen.
+- Packs are easy to compare.
+- Mobile remains readable.
+
+PRICING:
+- All numeric service and package prices receive the one-time 20%
+  reduction.
+- All six markets remain separate.
+- Rounding is appropriate for the market currency.
+- Previously persisted prices do not silently remain unreduced
+  if they were part of the existing price catalog.
+- Migration runs only once.
+- Price synchronization works everywhere.
+- Package savings are not fabricated.
+
+ADMIN:
+- Inline editing works.
+- The six-market price matrix remains consistent.
+- Bulk price adjustments include a preview.
+- Bulk adjustments do not apply twice.
+- Discount management works.
+- Website text can be edited without changing source files.
+- Changes propagate to the public site.
+
+FUNCTIONALITY:
+- WhatsApp contact still works.
+- Booking still works where configured.
+- Package checkout retains its correct price.
+- No broken imports or invalid types.
+- No critical runtime errors.
+- Existing useful tests pass.
+
+Do not merely report that these checks passed.
+Run the actual available tests and build process.
+
+Fix the issues discovered before completion.
+
+==================================================
+FINAL RESULT
+==================================================
+
+Make DStudioz feel like a coordinated, creative, dependable digital
+studio that understands brands and delivers work consistently.
+
+Our strengths should be reflected in the writing:
+
+- We listen to the need.
+- We understand the brand and project context.
+- We assign work to the right specialists.
+- We keep design and execution aligned.
+- We coordinate the delivery process.
+- We respect agreed scope and timing.
+- We offer individual services as well as combined packages.
+
+The website should be concise, organized, attractive and easy to use.
+
+The admin dashboard should allow hands-on control over prices,
+discounts, services, packages and website text without constant
+code edits.
+
+Implement these changes in the existing project now.

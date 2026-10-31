@@ -1,0 +1,1687 @@
+PROJECT: DSTUDIOZ
+FULL NAME: DIGITAL SOLUTIONZ STUDIO
+
+PROJECT TYPE:
+Complete international digital studio website and business operations
+platform.
+
+PLATFORM:
+Google AI Studio Build Mode.
+
+IMPLEMENTATION MODE:
+Rebuild the existing website from scratch while preserving only
+useful, verified code, configuration, and assets.
+
+==============================================================
+01. YOUR ROLE
+==============================================================
+
+Act as a senior multidisciplinary team consisting of:
+
+- Creative director.
+- Brand strategist.
+- UX/UI architect.
+- Conversion and behavioral-design specialist.
+- Digital product designer.
+- Motion designer.
+- Full-stack software engineer.
+- Ecommerce and pricing-system architect.
+- Payment integration engineer.
+- Security engineer.
+- Accessibility and performance specialist.
+
+Your responsibility is to turn DStudioz into a complete,
+professional, coherent digital studio experience.
+
+Do not create a generic marketing agency template.
+
+Do not create a personal portfolio.
+
+Do not create an overly complicated futuristic website.
+
+Do not create a website that repeats the same information across
+multiple sections.
+
+Do not create an unnecessarily complex customer portal.
+
+Build a distinctive studio brand with a comfortable, clear customer
+journey and a powerful operational system behind the scenes.
+
+Inspect the existing project before changing it.
+
+Understand its framework, configuration, current components,
+integrations, and deployment structure.
+
+Then rebuild the implementation so the resulting application has
+one coherent design system, one central service catalog, one
+package system, one pricing engine, and one consistent workflow.
+
+Do not stop at a plan, wireframe, homepage preview, or static mockup.
+
+Implement the actual application, run it, test it, and fix issues
+before reporting completion.
+
+==============================================================
+02. BUSINESS IDENTITY AND POSITIONING
+==============================================================
+
+Brand name:
+Digital Solutionz Studio
+
+Short name:
+DStudioz
+
+Brand descriptor:
+Independent Digital Solutions Studio
+
+Business context:
+An independent multidisciplinary team of two brothers and
+collaborators with different skills and responsibilities.
+
+We work remotely with clients internationally.
+
+The current brand is not being presented as a legally registered
+agency or corporation.
+
+The website must not falsely claim a formal company registration,
+registered office, corporate structure, employee count, certifications,
+awards, or business achievements.
+
+We want the presence and visual quality of a premium, organized
+digital studio without making unsupported claims about our size.
+
+CORE POSITIONING:
+
+A multidisciplinary digital studio that helps businesses and
+individuals build their online presence, create better content,
+manage digital channels, develop websites and applications,
+improve visibility, automate workflows, and solve technical problems.
+
+BRAND PROMISE:
+
+"Your digital next move, made simpler."
+
+PRIMARY TAGLINE:
+
+"Everything your digital next move needs."
+
+ALTERNATIVE CAMPAIGN LINE:
+
+"Different needs. Connected expertise."
+
+The brand should communicate:
+- Creativity.
+- Technical capability.
+- Clear communication.
+- Practical problem-solving.
+- Flexible collaboration.
+- Professional delivery.
+- Worldwide availability.
+
+Never invent customer testimonials, project results, client logos,
+case studies, certificates, team profiles, or statistics.
+
+We do not need a portfolio to launch this website.
+
+Our services, process, presentation, and reliability must create
+the first impression.
+
+==============================================================
+03. BRAND GUIDELINES — VISUAL IDENTITY
+==============================================================
+
+Create an original visual identity for DStudioz.
+
+The result should feel like a premium creative technology studio
+combining editorial design, contemporary digital branding,
+purposeful interaction, and polished interface design.
+
+The visual style must be attractive without being noisy.
+
+Use a light-first design system with selective dark surfaces.
+
+DO NOT USE INDIGO OR PURPLE AS PRIMARY BRAND COLORS.
+
+PRIMARY COLOR PALETTE:
+
+Warm Porcelain:
+#F7F4ED
+
+Soft White:
+#FFFFFF
+
+Ink Black:
+#18191B
+
+Deep Charcoal:
+#252629
+
+Primary Accent — Signal Coral:
+#FF573D
+
+Secondary Accent — Citrus:
+#DDF278
+
+Muted Gray:
+#74756F
+
+Soft Neutral Surface:
+#EFEEE8
+
+Border Neutral:
+#E3E1DA
+
+Dark Surface:
+#1B1C1F
+
+COLOR HIERARCHY:
+
+- Porcelain is the principal website background.
+- White is used for clean surfaces and cards.
+- Ink Black is used for headings and body text.
+- Signal Coral is the recognizable action color.
+- Citrus is used sparingly for small visual highlights, selected
+  promotion graphics, or distinctive interactive moments.
+- Deep Charcoal is reserved for selected feature sections and
+  strong visual contrast.
+
+Do not place every color on every component.
+
+Use coral for important calls to action, selected states,
+and identifiable brand signals.
+
+Use citrus only where it enhances hierarchy.
+
+Maintain strong text contrast.
+
+Never use purple or indigo as the main accent.
+
+TYPOGRAPHY:
+
+Use a strong modern sans-serif combination.
+
+Suggested:
+- Headings: Space Grotesk.
+- Body: Inter.
+
+Use appropriate fallback fonts.
+
+Typography must feel editorial, contemporary, and confident.
+
+Define a consistent scale for:
+- Display headings.
+- Page titles.
+- Section headings.
+- Department titles.
+- Service titles.
+- Package titles.
+- Body text.
+- Labels.
+- Metadata.
+
+Use whitespace and text hierarchy rather than excessive borders
+and decorative elements to separate content.
+
+LOGO:
+
+Create a distinctive DStudioz wordmark and a simple geometric symbol.
+
+Possible direction:
+A custom letterform based on D and S, or a graphic representation
+of connected disciplines and creative structure.
+
+The logo should look professional at both large and small sizes.
+
+Create it as an editable SVG or equivalent scalable asset.
+
+Avoid stock iconography as the primary logo.
+
+Create:
+- Main horizontal wordmark.
+- Compact symbol.
+- Favicon version.
+- Monochrome version.
+- Light-background and dark-background versions.
+
+==============================================================
+04. CREATIVE ART DIRECTION
+==============================================================
+
+The website must feel like a carefully art-directed creative studio,
+not a software dashboard.
+
+Use:
+- Strong editorial layouts.
+- Clear visual hierarchy.
+- Unique abstract illustrations.
+- Refined modular compositions.
+- Generous whitespace.
+- A small number of distinctive interactive visuals.
+- Intentional asymmetry.
+- Sophisticated typography.
+- Calm surfaces.
+- Precise animation.
+- Clear product-like service presentations.
+
+Create visual variety between sections, but keep the same
+underlying design system.
+
+Each department may have its own subtle graphical identity,
+but all departments must look part of one recognizable studio.
+
+Avoid:
+- A wall of identical cards.
+- Excessive glow.
+- Excessive glassmorphism.
+- Large animated backgrounds behind body text.
+- Random floating labels.
+- Generic stock business photography.
+- Generic dashboard illustrations.
+- Overuse of gradients.
+- Randomly changing styles between pages.
+- Large blocks of unnecessary text.
+- Decorative interactions that make navigation slower.
+
+Visual sophistication comes from art direction, not the number
+of animated effects.
+
+==============================================================
+05. BRAND EXPERIENCE AND HUMAN PSYCHOLOGY
+==============================================================
+
+Design around how clients discover, evaluate, and purchase services.
+
+Do not manipulate visitors or create false urgency.
+
+Use five principles throughout the website.
+
+1. RECOGNITION
+
+Help visitors recognize a need they already have.
+
+Use clear phrases such as:
+"My brand needs a better identity."
+"I need a website."
+"Customers cannot find my business."
+"I need someone to manage my social media."
+"I want to automate repetitive work."
+
+Do not require visitors to understand technical terminology first.
+
+2. PROGRESSIVE DISCLOSURE
+
+Show the department first.
+
+Reveal its services when expanded.
+
+Reveal service details only after the user selects a service.
+
+Do not expose every piece of information simultaneously.
+
+3. CLEAR VISUAL HIERARCHY
+
+Give every major section a clear purpose.
+
+Avoid multiple competing headlines and too many buttons.
+
+Use one prominent action and, where appropriate, one secondary action.
+
+4. REDUCED FRICTION
+
+Let visitors browse services and prices without registering.
+
+Do not require a long questionnaire before seeing an offer.
+
+Keep project qualification questions for a scheduled meeting
+or subsequent discussion.
+
+5. TRUST THROUGH TRANSPARENCY
+
+Explain deliverables, exclusions, prices, discounts, payment status,
+and the next action clearly.
+
+Do not invent social proof.
+
+Do not hide recurring costs.
+
+Do not create fake countdowns or fabricated scarcity.
+
+==============================================================
+06. WEBSITE EXPERIENCE: FOUR CLEAR ENTRY POINTS
+==============================================================
+
+The entire website should be organized around four ways
+to discover the studio.
+
+ENTRY 1:
+EXPLORE SERVICES
+
+For visitors who already know what service they need.
+
+ENTRY 2:
+READY-MADE PACKS
+
+For visitors who prefer a complete, predefined solution.
+
+ENTRY 3:
+PROBLEMS WE SOLVE
+
+For visitors who know their problem but do not know which
+service is appropriate.
+
+ENTRY 4:
+CONTACT OR BOOK
+
+For visitors who prefer to speak with the team directly.
+
+These are the main customer-facing pathways.
+
+Do not introduce extra navigation systems that compete with them.
+
+==============================================================
+07. HOMEPAGE HERO
+==============================================================
+
+Create a distinctive premium hero.
+
+DESKTOP LAYOUT:
+
+Use an asymmetrical composition.
+
+Left side:
+- Small brand label.
+- Main headline.
+- One short supporting paragraph.
+- Two carefully designed action buttons.
+- Optional subtle reassurance line.
+
+Right side:
+- One original creative visual representing connected digital
+  disciplines.
+
+The visual might combine dimensional abstract structures,
+creative shapes, a modular composition, or subtle layered motion.
+
+It must not look like a generic technology dashboard.
+
+On mobile, stack the composition naturally. Keep the heading,
+actions, and visual balanced without taking over the entire screen.
+
+HERO BRAND LABEL:
+
+DIGITAL SOLUTIONZ STUDIO
+
+HERO HEADLINE:
+
+"Your next digital move starts here."
+
+SUPPORTING TEXT:
+
+"Creative, technology, and digital solutions built around
+what your business needs next."
+
+PRIMARY HERO ACTION:
+
+"I know what I need"
+
+Secondary hero action:
+
+"Help me find the right solution"
+
+PRIMARY ACTION BEHAVIOR:
+
+Open the service explorer and focus the visitor on the available
+departments.
+
+SECONDARY ACTION BEHAVIOR:
+
+Scroll to the Problems We Solve carousel and make the relevant
+problem categories easy to explore.
+
+The actions should feel like an invitation, not generic buttons.
+
+Use a distinct primary shape and strong typography.
+
+A small directional symbol can reinforce movement.
+
+A subtle hover or press animation can make the buttons feel tactile.
+
+Never require an animation to finish before a user can continue.
+
+Do not center everything merely because centered layouts are
+popular.
+
+Use a composition that feels like a premium creative studio.
+
+The goal is an immediate understanding of what DStudioz does.
+
+==============================================================
+08. MAIN NAVIGATION
+==============================================================
+
+Use a compact header.
+
+Left:
+DStudioz logo.
+
+Navigation:
+- Services.
+- Packs.
+- How We Work.
+- About.
+
+Right:
+- Market and currency selector.
+- "Let's Talk" action.
+
+The Services menu may open a well-organized desktop mega-menu.
+
+Group the departments logically.
+
+On mobile, use a simple accessible menu.
+
+Keep navigation fixed or sticky only when helpful.
+
+Do not create a large navigation bar or a separate mega-menu
+for every department.
+
+==============================================================
+09. SERVICE DEPARTMENTS
+==============================================================
+
+Create one dedicated service catalog containing eight departments.
+
+DEPARTMENT 01:
+BRAND STRATEGY & DESIGN
+
+DEPARTMENT 02:
+DIGITAL MANAGEMENT & ADVERTISING
+
+DEPARTMENT 03:
+COMMUNITY MANAGEMENT
+
+DEPARTMENT 04:
+CONTENT & CREATIVE PRODUCTION
+
+DEPARTMENT 05:
+WEB & APP DEVELOPMENT
+
+DEPARTMENT 06:
+SEO & LOCAL VISIBILITY
+
+DEPARTMENT 07:
+AI, AUTOMATION & INTEGRATIONS
+
+DEPARTMENT 08:
+TECHNOLOGY & SECURITY
+
+Each department must appear in the service explorer.
+
+Each department contains its own individual service records.
+
+The content and pricing must be managed centrally.
+
+Never duplicate package descriptions or prices by hardcoding
+them in unrelated components.
+
+==============================================================
+10. EXPANDABLE SERVICE EXPLORER
+==============================================================
+
+The service explorer is a core feature.
+
+Create a clean, premium list or modular layout of eight departments.
+
+Each department initially displays:
+- Department name.
+- One concise description.
+- A small consistent icon or original graphic.
+- Expand/collapse affordance.
+
+Example:
+
+Brand Strategy & Design
+
+"Give your brand a clearer identity."
+
+When the visitor expands it, show the relevant services.
+
+Example services:
+- Brand Identity.
+- Logo Design.
+- Brand Positioning.
+- Brand Guidelines.
+- Rebranding.
+- Naming Assistance.
+
+The service list must be compact and readable.
+
+Do not place a full page of text inside an expanded department.
+
+When the visitor selects one service, expand a service detail panel.
+
+SERVICE DETAIL PANEL:
+
+1. Service name.
+2. Outcome-focused description.
+3. Main deliverables.
+4. Applicable market price or pricing status.
+5. Optional add-ons.
+6. "Book a Meeting" action.
+7. "Ask on WhatsApp" action.
+8. "Select This Service" action when selection is supported.
+
+Example:
+
+SERVICE:
+Brand Identity
+
+OUTCOME:
+"Build a consistent visual identity that helps your business
+look professional and recognizable."
+
+POSSIBLE DELIVERABLES:
+- Logo and visual elements.
+- Color palette.
+- Typography selection.
+- Supporting graphic elements.
+- Agreed brand identity assets.
+
+Exact inclusions depend on the selected scope and approved package.
+
+PRICE:
+Display the approved price or price range for the selected market.
+
+If the service is not fixed-price, show "Request a quote."
+
+Keep the main service details visible without requiring multiple
+separate page navigations.
+
+An optional "Full details" expansion may contain additional terms.
+
+The client should be able to close the details and continue
+exploring other services immediately.
+
+Use the same reusable components across all departments.
+
+==============================================================
+11. SERVICE CATALOG CONTENT
+==============================================================
+
+DEPARTMENT 01 — BRAND STRATEGY & DESIGN
+
+Services:
+- Brand positioning.
+- Brand identity.
+- Logo design.
+- Brand guidelines.
+- Brand messaging.
+- Naming assistance.
+- Rebranding.
+- Visual identity assets.
+
+DEPARTMENT 02 — DIGITAL MANAGEMENT & ADVERTISING
+
+Services:
+- Digital strategy.
+- Digital presence planning.
+- Advertising management.
+- Campaign coordination.
+- Meta Ads management.
+- Google Ads management.
+- Campaign reporting.
+- Digital operations coordination.
+
+DEPARTMENT 03 — COMMUNITY MANAGEMENT
+
+Services:
+- Social media management.
+- Content calendar planning.
+- Publishing and scheduling.
+- Caption writing.
+- Community engagement.
+- Comment and message moderation.
+- Monthly performance reporting.
+
+DEPARTMENT 04 — CONTENT & CREATIVE PRODUCTION
+
+Services:
+- Graphic design.
+- Social media graphics.
+- Promotional visuals.
+- Video editing.
+- Reels and short-form video editing.
+- AI-assisted visual content.
+- Creative campaign assets.
+- Motion graphics where supported.
+
+DEPARTMENT 05 — WEB & APP DEVELOPMENT
+
+Services:
+- Landing pages.
+- Business websites.
+- E-commerce websites.
+- Web applications.
+- Mobile applications where supported by the actual team.
+- Frontend and backend development.
+- API integrations.
+- Website improvements.
+- Website maintenance.
+- Technical troubleshooting.
+
+DEPARTMENT 06 — SEO & LOCAL VISIBILITY
+
+Services:
+- SEO foundations.
+- Technical SEO.
+- On-page SEO.
+- Keyword research.
+- Local SEO.
+- Google Business Profile setup.
+- Google Maps business visibility.
+- Search Console.
+- Analytics configuration.
+- Search visibility reporting.
+
+DEPARTMENT 07 — AI, AUTOMATION & INTEGRATIONS
+
+Services:
+- Workflow automation.
+- API integrations.
+- Application integrations.
+- Automated reporting.
+- Repetitive-task automation.
+- Lead-routing workflows.
+- Internal business tools.
+- Custom workflow systems.
+
+Do not introduce a Gemini-powered chatbot or AI service recommender.
+
+DEPARTMENT 08 — TECHNOLOGY & SECURITY
+
+Services:
+- Technical support.
+- Linux support.
+- Networking assistance.
+- Website security hygiene.
+- Configuration reviews.
+- Authorized OSINT research.
+- Appropriately scoped security assessments.
+- Custom technical scripts and tools.
+
+Do not advertise certifications or specialized security services
+unless the responsible team member can actually provide them.
+
+Any active security testing requires explicit authorization
+and a defined scope.
+
+==============================================================
+12. INDIVIDUAL SERVICE SELECTION
+==============================================================
+
+The client can select individual services.
+
+When a service is selected, add its ID to a shared selection state.
+
+Show a compact floating or sticky selection summary.
+
+Example:
+
+"2 services selected"
+
+"Eligible bundle discount applied"
+
+"Review Selection"
+
+"Continue"
+
+The selection summary must not obstruct content.
+
+Allow visitors to:
+- Add services from multiple departments.
+- Remove services.
+- Continue browsing.
+- View the applicable prices.
+- See eligible discounts.
+- Book a meeting.
+- Open WhatsApp with their selections included in the message.
+
+Do not force visitors into a long custom package questionnaire.
+
+If they choose "Book a Meeting," transfer the selected service IDs
+and context to the booking flow.
+
+If they choose WhatsApp, create a prefilled message containing
+the selected service names and relevant package details.
+
+Do not include private personal information in the message.
+
+==============================================================
+13. READY-MADE PACKAGES
+==============================================================
+
+Create a separate, well-organized Packs page.
+
+Individual services and complete packages must not be confused.
+
+An individual service represents one defined service.
+
+A package combines an agreed scope into one convenient offer.
+
+Examples of package families:
+
+BRANDING:
+- Brand Foundation.
+- Brand Launch.
+- Brand Evolution.
+
+COMMUNITY MANAGEMENT:
+- Social Presence.
+- Social Growth.
+- Social Partner.
+
+CONTENT:
+- Design Pack.
+- Video Pack.
+- Content Engine.
+
+WEB DEVELOPMENT:
+- Landing Page.
+- Business Website.
+- E-Commerce Build.
+- Custom Web Application.
+
+SEO:
+- Local Visibility.
+- SEO Foundation.
+- SEO Growth.
+
+AUTOMATION:
+- Workflow Audit.
+- Automation Build.
+- Connected Systems.
+
+TECHNOLOGY & SECURITY:
+- Technical Support.
+- Security Review.
+- Custom Assessment.
+
+CROSS-DEPARTMENT BUNDLES:
+
+Business Launch:
+Branding + website + social profile setup + local visibility.
+
+Digital Growth:
+Community management + creative production + optional SEO
+or advertising management.
+
+Content Engine:
+Content planning + graphic design + short-form video editing.
+
+Business Systems:
+Website or application + integrations + automation.
+
+Custom Studio Plan:
+A tailored combination of services.
+
+A package should be displayed as one offer with a clear scope,
+not as a repeated list of loosely related services.
+
+==============================================================
+14. PACKAGE DETAIL EXPERIENCE
+==============================================================
+
+Every package has:
+
+- Package name.
+- One-sentence benefit.
+- Intended client need.
+- Price or pricing status.
+- Billing type.
+- Included deliverables.
+- Limits and exclusions.
+- Optional add-ons.
+- Related packages.
+- Booking action.
+- WhatsApp action.
+- Online payment action only when supported and enabled.
+
+Do not show every technical detail in the package listing.
+
+Use progressive disclosure to reveal full scope.
+
+The customer can select a package directly without visiting
+all the individual service pages it contains.
+
+Prevent duplicate charges if the user selects a package and
+also selects a service already included in that package.
+
+Use a central rule system for inclusion and duplicate handling.
+
+==============================================================
+15. HUMAN-CENTERED PROBLEMS CAROUSEL
+==============================================================
+
+Create a horizontal carousel titled:
+
+"What can we help you solve?"
+
+Use at least 14 short customer problems.
+
+Examples:
+
+- My brand looks unprofessional.
+- I need a new brand identity.
+- I need a business website.
+- I want to sell online.
+- My social media is inactive.
+- I need better content.
+- I need more consistent videos.
+- Customers cannot find my business on Google.
+- My website needs SEO.
+- I want professional advertising management.
+- I spend too much time on repetitive tasks.
+- My digital tools need to work together.
+- I need a custom web application.
+- I have a technical issue.
+- I want to review my digital security.
+- I need several services for one project.
+
+Each problem maps to known service IDs and relevant packages.
+
+Clicking a problem should navigate or scroll to a relevant service
+without requiring the visitor to understand technical vocabulary.
+
+CAROUSEL BEHAVIOR:
+
+- Manual horizontal scroll.
+- Touch gestures.
+- Previous and next controls.
+- Optional gentle automatic scrolling.
+- Pause on hover.
+- Pause when keyboard focus enters.
+- Stop or pause after manual interaction.
+- Respect reduced-motion preferences.
+- Never trap the user in an animated sequence.
+
+Show only a few cards at a time.
+
+The section must feel visually interesting but not noisy.
+
+==============================================================
+16. PRICING MODEL
+==============================================================
+
+Use one centralized pricing engine.
+
+Never maintain separate price values for each page.
+
+SUPPORTED MARKETS:
+
+Tunisia:
+TND.
+
+Algeria:
+DZD.
+
+Libya:
+LYD.
+
+Europe:
+EUR.
+
+Canada:
+CAD.
+
+Other international markets:
+USD.
+
+European pricing:
+France, Italy, Spain, and the configured European market group
+share one price list in EUR.
+
+Do not merely convert Tunisian rates into euros.
+
+Every market has its own deliberately configured price records.
+
+Every price record contains:
+- Service or package ID.
+- Market ID.
+- Currency.
+- Fixed price or range.
+- Display mode.
+- Billing interval.
+- Publication status.
+- Scope notes.
+- Optional validity information.
+
+PRICE TYPES:
+
+- Fixed one-time price.
+- Starting-from price.
+- Price range.
+- Monthly price.
+- Custom quote.
+- Not yet published.
+
+Do not invent approved prices.
+
+Draft prices must never appear as official public offers.
+
+If a price is not configured, show "Request a quote."
+
+Do not calculate a precise total when one or more components
+have no approved price.
+
+Clearly separate:
+- One-time project fees.
+- Monthly recurring fees.
+- External expenses such as advertising, hosting, domains,
+  subscriptions, and licenses.
+
+==============================================================
+17. COUNTRY DETECTION AND MANUAL MARKET SELECTION
+==============================================================
+
+Create a compact market selector in the website header.
+
+Support:
+- Tunisia — TND.
+- Algeria — DZD.
+- Libya — LYD.
+- Europe — EUR.
+- Canada — CAD.
+- Other markets — USD.
+
+The visitor may select the market manually at any time.
+
+Use the following consent message:
+
+"See pricing configured for your region."
+
+Supporting copy:
+"We can suggest your regional price list and remember your choice.
+You can change your market at any time."
+
+Buttons:
+- Accept & Detect My Market.
+- Choose Manually.
+- Essential Only.
+
+IMPORTANT:
+
+Cookies do not detect physical location.
+
+Use a suitable server-side IP-to-country lookup only after the
+visitor opts into the optional country-detection feature.
+
+Do not request GPS permissions.
+
+Do not use browser geolocation.
+
+When consent is granted:
+1. Retrieve an approximate country code.
+2. Map it to a configured market.
+3. Apply the appropriate approved prices.
+4. Save the preference.
+5. Use it consistently throughout the website.
+
+When the visitor manually chooses a market, save it and prevent
+automatic detection from silently overriding it.
+
+If detection fails, use the international fallback and keep the
+manual selector visible.
+
+If the visitor declines optional country detection, allow full
+site access and manual market selection.
+
+Provide cookie-settings controls in the footer.
+
+Do not perform optional tracking when consent has been declined.
+
+==============================================================
+18. MANUAL PRICING MANAGEMENT IN ADMIN
+==============================================================
+
+Build a secure private admin dashboard.
+
+The most important admin section is:
+
+"Pricing & Offers"
+
+It must allow authorized administrators to edit every service price,
+package price, currency, market, discount, and promotion without
+editing source code.
+
+ADMIN SECTIONS:
+
+- Overview.
+- Departments.
+- Services.
+- Packages.
+- Market pricing.
+- Discounts and promotions.
+- Payment settings.
+- Booking settings.
+- Contact configuration.
+- Leads and requests.
+- Site content settings.
+
+PRICING MANAGEMENT:
+
+Select a service or package.
+
+Display a market matrix with:
+- Tunisia.
+- Algeria.
+- Libya.
+- Europe.
+- Canada.
+- International.
+
+Allow each price to be edited independently.
+
+Fields include:
+- Amount.
+- Minimum and maximum.
+- Currency.
+- Billing interval.
+- Pricing mode.
+- Publication status.
+- Scope note.
+- Optional price revision date.
+
+Changes should propagate to every relevant public page.
+
+Do not hardcode prices in frontend components.
+
+Use explicit saving, confirmation, and error states.
+
+Allow the administrator to preview the resulting public price
+before publishing.
+
+==============================================================
+19. DISCOUNT AND PROMOTION MANAGEMENT
+==============================================================
+
+Create a dedicated administrative feature:
+
+"Offers & Discounts"
+
+The administrator can create a new promotion without touching code.
+
+PROMOTION FIELDS:
+
+- Internal promotion name.
+- Public headline.
+- Short description.
+- Discount type.
+- Discount value.
+- Target services.
+- Target packages.
+- Target departments.
+- Eligible markets.
+- Start date and time.
+- End date and time.
+- Enabled or disabled state.
+- Optional coupon code.
+- Whether automatic application is allowed.
+- Eligibility rules.
+- Whether the discount can combine with another discount.
+
+Supported discount types:
+- Percentage.
+- Fixed amount.
+- Package-specific price override.
+- Configured multi-service discount.
+
+Example:
+
+Promotion:
+"Studio Launch Offer"
+
+Headline:
+"Take 17% off selected packages"
+
+Discount:
+17%
+
+Markets:
+Choose any configured combination.
+
+Eligible packages:
+Select the desired ready-made offers.
+
+Status:
+Draft / Scheduled / Active / Expired / Disabled.
+
+The example is only an example. Do not make this promotion
+active unless an administrator creates and approves it.
+
+A discount must be calculated server-side for any paid transaction.
+
+Do not trust discount values supplied by the browser.
+
+Prevent expired or invalid promotions from being used.
+
+Define discount stacking rules.
+
+Do not apply both a package discount and a multi-service discount
+unless the configuration explicitly permits it.
+
+==============================================================
+20. PROMOTION DISPLAY DESIGN
+==============================================================
+
+Create a sophisticated promotion display component.
+
+On desktop, an eligible active promotion may appear as a slim
+brand-accented tab on the left edge of the viewport.
+
+Example tab:
+"17% offer"
+
+When selected, open a compact side panel containing:
+- Promotion title.
+- Short details.
+- Eligible package names.
+- Applicable market.
+- Actual terms.
+- End date only if an actual end date is configured.
+- A CTA to view eligible offers.
+
+On mobile, show the same information in a bottom sheet or compact
+overlay that does not interfere with navigation.
+
+Do not automatically open an intrusive popup immediately when
+the visitor arrives.
+
+The promotion tab should be subtle and dismissible.
+
+Only display promotions applicable to the visitor's selected market
+and currently active dates.
+
+Do not show expired promotions.
+
+If the visitor changes markets, recalculate eligibility.
+
+Never show a fabricated countdown or fake limited availability.
+
+Where practical, display the discount consistently in:
+- Eligible package card.
+- Package details.
+- Price summary.
+- Checkout summary.
+- Promotion panel.
+
+Use the same central promotion record everywhere.
+
+==============================================================
+21. AUTOMATIC MULTI-SERVICE DISCOUNTS
+==============================================================
+
+Allow the admin to configure discounts for customers selecting
+multiple individual services.
+
+Example rule:
+A percentage discount applies to eligible combinations of
+two or more services.
+
+The precise percentage, services, market eligibility, and stacking
+behavior must be editable in the admin dashboard.
+
+Show the discount in the selection summary only when the
+selection qualifies.
+
+Display:
+- Original subtotal.
+- Discount amount.
+- Discounted subtotal.
+- Applicable currency.
+
+Do not invent a discount amount.
+
+Keep one-time and recurring charges separate.
+
+If a selected service is already included in a package, prevent
+double charging.
+
+==============================================================
+22. PAYMENT ARCHITECTURE
+==============================================================
+
+Online checkout is a later-stage feature that must be built with
+safe configuration and explicit provider eligibility.
+
+DEFAULT COMMERCIAL POLICY:
+
+Allow online checkout for clearly defined, published ready-made
+packages only.
+
+Custom services and custom project combinations use direct
+discussion, an agreed scope, and an approved quotation.
+
+A custom service selection must not immediately generate a
+nonbinding but misleading checkout amount.
+
+PAYMENT METHODS:
+
+EUROPE:
+
+Potential providers:
+- Stripe.
+- PayPal.
+- Google Pay through a supported payment gateway.
+
+Enable these methods only after the relevant merchant account,
+domain, region, terms, and settlement arrangements are verified.
+
+Google Pay is a payment interface, not a replacement for the
+payment processing and merchant setup requirements.
+
+TUNISIA:
+
+Initial method:
+- Manual bank transfer.
+
+Optional provider to evaluate:
+- Konnect, once onboarding and payment acceptance are verified.
+
+For bank transfers:
+- Display approved bank instructions only.
+- Create an order reference.
+- Mark the order as pending.
+- Allow the administrator to verify receipt.
+- Do not mark payments as successful based on a screenshot or
+  an unverified client claim.
+
+ALGERIA AND LIBYA:
+
+Use the payment methods explicitly configured and approved for
+the actual merchant setup.
+
+If no method is configured, allow clients to request a quote
+or contact the studio.
+
+Do not show unavailable payment options.
+
+Do not expose banking details, secrets, or private account
+credentials in client-side source code.
+
+Do not impersonate the account owner of any third-party payment
+service.
+
+Do not use a payment account that has not been authorized and
+verified for the actual commercial arrangement.
+
+PAYMENT PROVIDER ARCHITECTURE:
+
+Create a common payment abstraction with provider adapters.
+
+Possible providers:
+- Stripe adapter.
+- PayPal adapter.
+- Google Pay through a supported gateway.
+- Konnect adapter, if approved.
+- Manual bank transfer.
+
+Payment methods must be enabled or disabled independently
+through the admin settings.
+
+All providers must be disabled for live production payments
+until their configuration and eligibility are confirmed.
+
+Support test mode separately from live mode.
+
+For online providers:
+- Create checkout sessions server-side.
+- Calculate the amount from approved database values.
+- Verify provider responses and webhook signatures.
+- Use idempotency where appropriate.
+- Record transaction IDs.
+- Handle pending, paid, failed, cancelled, and refunded states.
+- Never mark an order paid because the browser redirects to
+  a success page.
+- Never store card numbers or card security codes in the app.
+- Do not trust a price sent by the frontend.
+- Never expose API secrets in frontend code.
+
+ORDER WORKFLOW:
+
+1. Client selects an eligible package.
+2. Server verifies package status, price, market and discounts.
+3. Client reviews the final order summary.
+4. Server initiates the configured payment method.
+5. Provider confirmation is verified server-side.
+6. Order status updates only after trusted verification.
+7. The admin dashboard displays the transaction status.
+
+If a provider has not been configured, replace checkout with
+a clear "Request this package" action.
+
+Do not simulate online payments.
+
+==============================================================
+23. GOOGLE CALENDAR AND GOOGLE MEET
+==============================================================
+
+Client communication takes place through WhatsApp or scheduled
+Google Meet sessions.
+
+Do not build an internal client messaging platform.
+
+The site must not become a customer portal where clients need
+accounts to discuss projects.
+
+BOOKING EXPERIENCE:
+
+Keep booking short.
+
+Required information:
+- Name.
+- Email.
+- Meeting purpose.
+- Date.
+- Available time.
+
+Optional:
+- One short note.
+
+If the visitor enters booking from a particular department,
+service, or package, preserve that selection automatically.
+
+Use Google Calendar integration where authorized.
+
+Check availability and create an actual calendar event only after
+the booking is confirmed.
+
+Generate a Google Meet link where the authorized integration
+supports meeting-link creation.
+
+Do not show fictional meeting links.
+
+Handle time zones correctly.
+
+Prevent double booking where supported.
+
+Display successful booking only after the real operation succeeds.
+
+Provide a WhatsApp alternative if the booking integration is
+not configured.
+
+==============================================================
+24. WHATSAPP COMMUNICATION
+==============================================================
+
+Every service detail, package, and multi-service selection should
+have an appropriate WhatsApp contact option.
+
+Configure the studio number centrally.
+
+Do not invent the public number.
+
+Use the standard WhatsApp click-to-chat URL format and encode
+prefilled messages safely.
+
+Example for an individual service:
+
+"Hello DStudioz, I am interested in Brand Identity.
+Could you explain the available options and pricing?"
+
+Example for a selected package:
+
+"Hello DStudioz, I am interested in the Social Growth package
+for my business. I would like to discuss the scope and availability."
+
+For multiple selected services, include the selected service names.
+
+Never include unnecessary sensitive personal information.
+
+The visitor should be able to open WhatsApp directly without
+creating a website account.
+
+If the WhatsApp number is not configured, display an administrative
+setup warning instead of a broken button.
+
+==============================================================
+25. OPERATIONAL INFRASTRUCTURE
+==============================================================
+
+Build the public site and a private administrative system.
+
+The public site needs:
+- Service explorer.
+- Package catalog.
+- Market selector.
+- Pricing engine.
+- Promotions.
+- WhatsApp contact.
+- Calendar booking.
+- Conditional package checkout.
+
+The admin system needs:
+- Price management.
+- Package management.
+- Service management.
+- Discounts and promotions.
+- Payment settings.
+- Booking settings.
+- Inquiry and order records.
+- Contact configuration.
+
+The admin dashboard is an internal tool.
+
+It must not become a public-facing client portal.
+
+Store inquiry and order information securely.
+
+An inquiry should contain:
+- Reference number.
+- Date received.
+- Selected market.
+- Selected services or package.
+- Quoted amount if applicable.
+- Status.
+- Optional internal notes.
+- Responsible team member if configured.
+
+Use Google Sheets as an optional operational tracker, or Firestore
+where persistent database functionality is appropriate.
+
+The system must distinguish an inquiry from a confirmed order.
+
+==============================================================
+26. GOOGLE AI STUDIO IMPLEMENTATION
+==============================================================
+
+Inspect the existing project first.
+
+If the current architecture is useful and safe, refactor it.
+
+Otherwise, rebuild using the supported full-stack environment.
+
+Recommended architecture:
+- React frontend.
+- TypeScript.
+- Node.js server-side logic.
+- Reusable design components.
+- Centralized service and package data.
+- Server-side pricing logic.
+- Secure payment adapters.
+- Firebase Firestore where persistent storage is needed.
+- Firebase Authentication for the protected admin dashboard.
+- Google Calendar integration where configured.
+
+Use Google AI Studio's server-side secrets facility for credentials.
+
+Never hardcode private API credentials into the frontend.
+
+Do not add a runtime Gemini chatbot, Gemini-powered service
+recommendations, AI pricing, or conversational AI feature.
+
+The website should use normal deterministic application logic.
+
+==============================================================
+27. PRIVACY, ACCESSIBILITY AND SECURITY
+==============================================================
+
+Implement:
+- Semantic HTML.
+- Keyboard navigation.
+- Visible focus states.
+- Accessible expandable departments.
+- Screen-reader-friendly forms.
+- Appropriate color contrast.
+- Reduced-motion support.
+- Mobile-friendly touch targets.
+- Secure server-side validation.
+- Authorization for admin routes.
+- Restricted access to private orders and inquiries.
+- Cookie-consent preferences.
+- Minimal retention of market-detection data.
+
+Do not request precise GPS location.
+
+Country detection is optional and requires the appropriate consent.
+
+If the visitor declines optional market detection, allow manual
+selection and use a clearly configured fallback.
+
+Do not claim legal compliance without reviewing the actual
+implementation and business requirements.
+
+==============================================================
+28. RESPONSIVE DESIGN AND PERFORMANCE
+==============================================================
+
+Optimize the site for:
+- Mobile phones.
+- Tablets.
+- Laptops.
+- Desktop screens.
+
+Make the experience comfortable at widths including:
+360px, 390px, 768px, 1024px, 1280px and 1440px.
+
+Ensure:
+- No accidental horizontal overflow.
+- Expandable departments function on touch devices.
+- Pricing remains readable on small screens.
+- Service selections remain visible without obstructing content.
+- The mobile menu works correctly.
+- Promotions never block primary actions.
+- Animations remain restrained.
+- Nonessential assets load lazily.
+- Initial loading is fast.
+- Reduced-motion mode is respected.
+
+Do not prioritize visual effects over usability.
+
+==============================================================
+29. TESTING AND ACCEPTANCE CRITERIA
+==============================================================
+
+Before reporting completion, run and test the real application.
+
+SERVICE EXPLORER:
+- All eight departments work.
+- Each department contains relevant services.
+- Individual details expand and collapse.
+- Prices use the central pricing source.
+- Contact buttons have correct actions.
+
+PACKAGES:
+- Package tiers have genuinely different defined scopes.
+- Included services are linked correctly.
+- Package detail pages do not duplicate unrelated services.
+- Discount rules are consistent.
+
+PRICING:
+- Admin can edit prices for every market.
+- All public pages reflect the correct approved price.
+- Draft values remain unpublished.
+- The client sees the correct currency.
+- Recurring and one-time charges remain separate.
+
+PROMOTIONS:
+- Admin can create and edit discounts.
+- Admin can choose packages, services, departments and markets.
+- Promotion display matches the active configuration.
+- Expired promotions are not displayed.
+- Invalid discounts cannot be applied to payment amounts.
+
+PAYMENTS:
+- Unconfigured providers remain disabled.
+- Test and live mode are separate.
+- Payment amount is verified server-side.
+- The system handles success, failure, pending and refund states.
+- No card information is stored by the application.
+- Orders do not become paid without trusted confirmation.
+
+BOOKING:
+- Calendar availability is accurate when configured.
+- Meet links are genuine.
+- Time zones are clear.
+- Booking failures are handled honestly.
+
+ADMIN:
+- Unauthorized visitors cannot access private data.
+- Published price updates propagate to public components.
+- Service, package, market and promotion settings remain consistent.
+
+DESIGN:
+- No repeated walls of identical cards.
+- No excessive text.
+- No indigo or purple primary branding.
+- The brand feels distinctive and professional.
+- The website is usable without hover.
+- No fake testimonials, clients or achievements.
+- No generic dashboard clutter.
+- No broken links or decorative buttons without actions.
+
+BUILD:
+- Production build succeeds.
+- Type errors are resolved.
+- No critical runtime errors remain.
+- Responsive layouts are verified.
+- Key customer journeys are tested.
+
+==============================================================
+30. FINAL DELIVERY STANDARD
+==============================================================
+
+DStudioz must feel like a serious, well-organized creative studio
+with a distinctive identity and a comfortable customer experience.
+
+The site should have four clear entry points:
+
+1. Explore Services.
+2. Ready-Made Packs.
+3. Problems We Solve.
+4. Contact or Book.
+
+The service catalog, pricing engine, promotions, checkout rules
+and admin system must share the same source of truth.
+
+The public interface must remain simple even though the internal
+system is capable.
+
+Do not build unnecessary features that make the visitor's journey
+slower.
+
+Do not force account creation.
+
+Do not require a long questionnaire before service discovery.
+
+Do not fabricate pricing or payment success.
+
+Do not assume a payment provider is legally available before its
+merchant configuration has been confirmed.
+
+Do not claim a legal company status that has not been established.
+
+Build the complete application now.
+
+Inspect the existing project, rebuild the architecture where
+necessary, implement the real functionality, test the application,
+and fix all issues discovered before reporting completion.
