@@ -1,0 +1,8 @@
+{
+  "name": "DStudioz - Digital Solutionz Studio",
+  "description": "Independent Digital Solutions Studio. Creative, technology, and digital solutions built around what your business needs next.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
